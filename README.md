@@ -8,7 +8,12 @@ Both players start with 3 lives. They lose a life if they mis-answer a question.
 
 The game doesn’t end until one of the players loses all their lives. At this point, the game should announce who won and what the other player’s score is.
 
+## Getting Started
+
+- To play the game, run `ruby main.rb` on the terminal.
+
 ## Example Prompt
 
-- No Appointments Made
-  !["Game Play"](img/example.png)
+Game Play
+
+!["Game Play"](img/example.png)
