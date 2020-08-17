@@ -11,4 +11,4 @@ The game doesn’t end until one of the players loses all their lives. At this p
 ## Example Prompt
 
 - No Appointments Made
-  !["Game Play"](images/example.png)
+  !["Game Play"](img/example.png)
