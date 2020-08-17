@@ -24,7 +24,7 @@ class Game
     puts
     # next round
     @round += 1
-    @players.rotate!
+    @players.rotate
   end
 
   # Game Status
